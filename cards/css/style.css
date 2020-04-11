@@ -4,27 +4,27 @@
 /* Importing all components file */
 @import url("components/cards.css");
 
-.container {
-  width: 300px;
+/*.container {
+  width: 500px;
   margin: 100 auto;
-}
+}*/
 
 /* Responsive queries */
 @media (max-width: 1200px) {
   .container {
-    width: 300px;
+    width: 500px;
     margin: 100 auto;
   }
 }
 @media (max-width: 960px) {
   .container {
-    width: 300px;
+    width: 400px;
     margin: 100 auto;
   }
 }
 @media (max-width: 720px) {
   .container {
-    width: 200px;
+    width: 300px;
     margin: 100 auto;
   }
 }
