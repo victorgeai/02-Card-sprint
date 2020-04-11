@@ -5,32 +5,32 @@
 @import url("components/cards.css");
 
 .container {
-  width: 500px;
+  width: 700px;
   margin: 100 auto;
 }
 
 /* Responsive queries */
 @media (max-width: 1200px) {
   .container {
-    width: 500px;
+    width: 600px;
     margin: 100 auto;
   }
 }
 @media (max-width: 960px) {
   .container {
-    width: 400px;
+    width: 500px;
     margin: 100 auto;
   }
 }
 @media (max-width: 720px) {
   .container {
-    width: 300px;
+    width: 400px;
     margin: 100 auto;
   }
 }
 @media (max-width: 540px) {
   .container {
-    width: 200px;
+    width: 300px;
     margin: 100 auto;
   }
 }
