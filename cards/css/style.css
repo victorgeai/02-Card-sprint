@@ -5,7 +5,7 @@
 @import url("components/cards.css");
 
 
-@media (max-width: 960px) {
+/*@media (max-width: 960px) {
   .container {
     width: 700px;
     margin: 0 auto;
@@ -22,7 +22,7 @@
     width: 300px;
     margin: 0 auto;
   }
-}
+}*/
 
 /* General for fonts and colors */
 body {
