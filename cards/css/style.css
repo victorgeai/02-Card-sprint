@@ -4,22 +4,7 @@
 /* Importing all components file */
 @import url("components/cards.css");
 
-
-/* General for fonts and colors */
-body {
-  margin: 50px;
-  font-family: 'Open Sans', sans-serif;
-}
-h1, h2, h3 {
-  font-family: Raleway, Helvetica, sans-serif;
-}
-a {
-  text-decoration: none;
-}
-.text-center {
-  text-align: center;
-}
-
+/* Responsive queries */
 @media (max-width: 1200px) {
   .container {
     width: 300px;
@@ -43,4 +28,20 @@ a {
     width: 200px;
     margin: 100 auto;
   }
+}
+
+
+/* General for fonts and colors */
+body {
+  margin: 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+a {
+  text-decoration: none;
+}
+.text-center {
+  text-align: center;
 }
