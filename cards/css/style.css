@@ -23,24 +23,24 @@ a {
 @media (max-width: 1200px) {
   .container {
     width: 300px;
-    margin: 0 auto;
+    margin: 100 auto;
   }
 }
 @media (max-width: 960px) {
   .container {
     width: 300px;
-    margin: 0 auto;
+    margin: 100 auto;
   }
 }
 @media (max-width: 720px) {
   .container {
     width: 200px;
-    margin: 0 auto;
+    margin: 100 auto;
   }
 }
 @media (max-width: 540px) {
   .container {
     width: 200px;
-    margin: 0 auto;
+    margin: 100 auto;
   }
 }
