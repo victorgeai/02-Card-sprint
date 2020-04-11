@@ -8,6 +8,8 @@
   align-items: center;
   box-shadow: 0 10 30 rgba(0,0,0,0.1)
   height:250px;
+  border-radius:5px;
+  text-shadow: 0 10 30 rgba(0,0,0,0.4)
 }
 
 .card-product {
