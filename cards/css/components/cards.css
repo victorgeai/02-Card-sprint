@@ -9,11 +9,26 @@
   box-shadow: 0 10 30 rgba(0,0,0,0.1)
   height:250px;
   border-radius:5px;
-  text-shadow: 0 10 30 rgba(0,0,0,0.4)
+  text-shadow: 0 10px 30px rgba(0,0,0,0.4)
 }
 
 .card-product {
+  display:flex;
+  align-items: center;
+  background-color: white;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1)
+  border-radius:5px;
 
+}
+
+.card-product img {
+  width:200px;
+  height:200px;
+  object-fit:cover;
+}
+
+.card-product div {
+  flex-grow: 1;
 }
 
 .card-trip {
