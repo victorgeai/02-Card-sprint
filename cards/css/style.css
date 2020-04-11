@@ -20,7 +20,12 @@ a {
   text-align: center;
 }
 
-/*
+@media (max-width: 1200px) {
+  .container {
+    width: 700px;
+    margin: 0 auto;
+  }
+}
 @media (max-width: 960px) {
   .container {
     width: 700px;
@@ -38,4 +43,4 @@ a {
     width: 300px;
     margin: 0 auto;
   }
-}*/
+}
