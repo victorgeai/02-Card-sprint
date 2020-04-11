@@ -37,3 +37,6 @@ a {
 .text-center {
   text-align: center;
 }
+.card-category h2 {
+  font-size: 50px;
+}
