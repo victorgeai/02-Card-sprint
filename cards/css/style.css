@@ -4,6 +4,11 @@
 /* Importing all components file */
 @import url("components/cards.css");
 
+.container {
+  width: 300px;
+  margin: 100 auto;
+}
+
 /* Responsive queries */
 @media (max-width: 1200px) {
   .container {
