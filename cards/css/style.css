@@ -6,7 +6,7 @@
 
 .container {
   width: 300px;
-  margin-left: 100 auto;
+  margin: 100 auto;
 }
 
 /* Responsive queries */
