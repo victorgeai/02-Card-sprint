@@ -4,9 +4,41 @@
 /* Importing all components file */
 @import url("components/cards.css");
 
+.container {
+  width: 700px;
+  margin: 100 auto;
+}
+
+/* Responsive queries */
+@media (max-width: 1200px) {
+  .container {
+    width: 600px;
+    margin: 100 auto;
+  }
+}
+@media (max-width: 960px) {
+  .container {
+    width: 500px;
+    margin: 100 auto;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 400px;
+    margin: 100 auto;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+    margin: 100 auto;
+  }
+}
+
+
 /* General for fonts and colors */
 body {
-  margin: 100px;
+  margin: 50px;
   font-family: 'Open Sans', sans-serif;
 }
 h1, h2, h3 {
